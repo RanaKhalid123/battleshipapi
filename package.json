@@ -22,7 +22,7 @@
     "joi": "^10.6.0",
     "lodash": "^4.17.4",
     "method-override": "^2.3.9",
-    "mongoose": "^4.10.8",
+    "mongoose": "^5.8.9",
     "morgan": "^1.8.2",
     "winston": "^2.3.1"
   },
